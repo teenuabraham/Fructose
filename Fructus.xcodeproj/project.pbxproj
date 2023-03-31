@@ -32,6 +32,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6ABEA36229D7048A00C93EC9 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				6AD20E3329D45488005B8796 /* FructusApp.swift */,
+				6AD20E3529D45488005B8796 /* ContentView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
 		6AD20E2729D45488005B8796 = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +60,7 @@
 		6AD20E3229D45488005B8796 /* Fructus */ = {
 			isa = PBXGroup;
 			children = (
-				6AD20E3329D45488005B8796 /* FructusApp.swift */,
-				6AD20E3529D45488005B8796 /* ContentView.swift */,
+				6ABEA36229D7048A00C93EC9 /* App */,
 				6AD20E3729D45489005B8796 /* Assets.xcassets */,
 				6AD20E3929D45489005B8796 /* Preview Content */,
 			);
